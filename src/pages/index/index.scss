@@ -1,0 +1,15 @@
+.device-item {
+  margin-top: 5px;
+  border: 1rpx solid #EEE;
+  padding: 10rpx;
+  color: #666;
+  text-align: center;
+
+  &:first-of-type {
+    margin-top: 30px;
+  }
+}
+
+.m-t-20 {
+  margin-top: 20px;
+}
