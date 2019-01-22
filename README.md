@@ -2,3 +2,4 @@
 
 ## 效果图 
 
+![image](https://raw.githubusercontent.com/huang-ju/bluetooth-printer/master/md/printf.jpeg)
